@@ -1,22 +1,12 @@
 # PROJEKT W JĘZYKU SKRYPTOWYM
-Tytuł: SUPER CRUEL ARENA<br>
 <img src='https://i.imgur.com/4PZQvIL.png'><br>
-Gra na pady od 2 do 4 osób.
+FULL VERSION
 
-Gracze spawnują się na arenie i rywalizują między sobą o przeżycie.
-Ostatni żywy wygrywa runde.
+Gra na stworzona za pomocą biblioteki pygame dla 2-4 graczy, sterowana za pomocą padów.
 
-Oczywiście na mapie będą pojawiać się 
-roznego rodzaju bronie, które uatrakcyjnią rozgrywke.
+Celem gry jest przetrwanie rundy, wygrywa ten co wygra ustaloną ilość rund.
 
-Będzie też wybór map.
+W przetrwaniu rundy mogą być pomocne pojawiające się na arenie bronie, którymi można rzucać, żeby ogłuszyć przeciwnika (lub zlikwidować, jeśli rzucisz nożem) lub strzelać, jeśli podniesiona broń to broń palna.
 
-I piękne menu.
-# Film przedstawiajacy stan podczas 3 raportu (zawiera dźwięki)
-https://i.imgur.com/tVFIgSf.mp4
+Grafiki użyte w grze są autorskie, a dźwięki są pobrane z soundbible.com na licencji open source.
 
-Zostało do zrobienia:
- - menu,
- - dodatkowe mapy,
- - modele postaci dla pozostalych graczy,
- - mechanika wygrania rundy, przyznanie punktów zwycięzcy i reset planszy.
