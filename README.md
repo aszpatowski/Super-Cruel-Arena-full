@@ -1,5 +1,8 @@
 # PROJEKT W JĘZYKU SKRYPTOWYM
 <img src='https://i.imgur.com/4PZQvIL.png'><br>
+<img src='https://raw.githubusercontent.com/aszpatowski/Super-Cruel-Arena-full/master/gify/menu_sca.gif'><br>
+<img src='https://raw.githubusercontent.com/aszpatowski/Super-Cruel-Arena-full/master/gify/gra1_sca.gif'><br>
+<img src='https://raw.githubusercontent.com/aszpatowski/Super-Cruel-Arena-full/master/gify/gra2_sca.gif'><br>
 FULL VERSION
 
 Gra na stworzona za pomocą biblioteki pygame dla 2-4 graczy, sterowana za pomocą padów.
